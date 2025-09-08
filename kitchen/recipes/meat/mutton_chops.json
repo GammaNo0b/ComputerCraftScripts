@@ -1,0 +1,8 @@
+{
+    "template": "recipes/templates/cutting_1",
+    "result": {
+        "name": "farmersdelight:mutton_chops",
+        "count": 2
+    },
+    "ingredient": "minecraft:mutton"
+}

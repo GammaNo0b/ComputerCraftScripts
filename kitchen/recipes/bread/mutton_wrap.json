@@ -1,0 +1,10 @@
+{
+    "template": "recipes/templates/shapeless",
+    "result": "farmersdelight:mutton_wrap",
+    "ingredients": [
+        "minecraft:bread",
+        "farmersdelight:cooked_mutton_chops",
+        "farmersdelight:cabbage",
+        "farmersdelight:onion"
+    ]
+}

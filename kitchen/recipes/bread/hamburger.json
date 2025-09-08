@@ -1,0 +1,15 @@
+{
+    "type": "crafting",
+    "result": "farmersdelight:hamburger",
+    "pattern": [
+        "bm",
+        "cto"
+    ],
+    "ingredients": {
+        "b": "minecraft:bread",
+        "m": "farmersdelight:beef_patty",
+        "c": "farmersdelight:cabbage_leaf",
+        "t": "farmersdelight:tomato",
+        "o": "farmersdelight:onion"
+    }
+}

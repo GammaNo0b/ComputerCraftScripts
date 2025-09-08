@@ -1,0 +1,8 @@
+{
+    "template": "recipes/templates/cutting_1",
+    "result": {
+        "name": "farmersdelight:minced_beef",
+        "count": 2
+    },
+    "ingredient": "minecraft:beef"
+}

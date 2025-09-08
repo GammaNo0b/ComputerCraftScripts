@@ -1,0 +1,13 @@
+{
+    "type": "cutting",
+    "results":[
+        {
+            "name": "farmersdelight:chicken_cuts",
+            "count": 2
+        }, {
+            "name": "minecraft:bone_meal",
+            "count": 1
+        }
+    ],
+    "ingredient": "minecraft:chicken"
+}

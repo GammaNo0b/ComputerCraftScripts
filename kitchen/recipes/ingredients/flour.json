@@ -1,0 +1,5 @@
+{
+    "template": "recipes/templates/milling_1",
+    "result": "create:wheat_flour",
+    "ingredient": "minecraft:wheat"
+}

@@ -1,0 +1,14 @@
+{
+    "type": "mixing",
+    "result": {
+        "items": [
+            "#result"
+        ]
+    },
+    "ingredients": [
+        "#ingredient"
+    ],
+    "fluids": [
+        "#fluid"
+    ]
+}

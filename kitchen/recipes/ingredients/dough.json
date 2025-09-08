@@ -1,0 +1,9 @@
+{
+    "template": "recipes/templates/mixing_1i1f_1i",
+    "result": "create:dough",
+    "ingredient": "create:wheat_flour",
+    "fluid": {
+        "name": "minecraft:water",
+        "amount": 1000
+    }
+}

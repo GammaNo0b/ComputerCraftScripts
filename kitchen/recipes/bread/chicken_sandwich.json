@@ -1,0 +1,10 @@
+{
+    "template": "recipes/templates/shapeless",
+    "result": "farmersdelight:chicken_sandwich",
+    "ingredients": [
+        "minecraft:bread",
+        "farmersdelight:cooked_chicken_cuts",
+        "minecraft:carrot",
+        "farmersdelight:cabbage"
+    ]
+}

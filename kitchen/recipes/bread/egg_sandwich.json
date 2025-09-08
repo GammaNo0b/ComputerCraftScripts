@@ -1,0 +1,13 @@
+{
+    "template": "recipes/templates/shapeless",
+    "result": "farmersdelight:egg_sandwich",
+    "ingredients": [
+        {
+            "name": "minecraft:bread",
+            "count": 1
+        }, {
+            "name": "farmersdelight:fried_egg",
+            "count": 2
+        }
+    ]
+}

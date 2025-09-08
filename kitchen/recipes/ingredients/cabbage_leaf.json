@@ -1,0 +1,8 @@
+{
+    "template": "recipes/templates/mixing_1i_1i",
+    "result": {
+        "name": "farmersdelight:cabbage_leaf",
+        "count": 2
+    },
+    "ingredient": "farmersdelight:cabbage"
+}
