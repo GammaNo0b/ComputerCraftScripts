@@ -1,0 +1,37 @@
+{
+    "bread": {
+        "bacon_sandwich.json": true,
+        "bread.json": true,
+        "chicken_sandwich.json": true,
+        "egg_sandwich.json": true,
+        "hamburger.json": true,
+        "mutton_wrap.json": true
+    },
+    "ingredients": {
+        "cabbage_leaf.json": true,
+        "dough.json": true,
+        "flour.json": true,
+        "fried_egg.json": true
+    },
+    "meat": {
+        "bacon.json": true,
+        "beef_patty.json": true,
+        "chicken_cod_slice.json": true,
+        "chicken_cuts.json": true,
+        "chicken_salmon_slice.json": true,
+        "cooked_bacon.json": true,
+        "cooked_chicken_cuts.json": true,
+        "cooked_cod_slice.json": true,
+        "cooked_mutton_chops.json": true,
+        "cooked_salmon_slice.json": true,
+        "minced_beef.json": true,
+        "mutton_chops.json": true
+    },
+    "templates": {
+        "cutting_1.json": true,
+        "milling_1.json": true,
+        "mixing_1i1f_1i.json": true,
+        "mixing_1i_1i.json": true,
+        "shapeless.json": true
+    }
+}
